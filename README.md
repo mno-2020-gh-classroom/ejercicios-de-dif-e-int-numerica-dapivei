@@ -9,10 +9,10 @@ Instrucciones:
 
 3. Resuelvan por equipos los ejercicios de programación de las notas de diferenciación e integración numérica:
 
-[1.4.Polinomios_de_Taylor_y_diferenciacion_numerica.ipynb](1.4.Polinomios_de_Taylor_y_diferenciacion_numerica.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dapivei/repo-mno-2020-prueba/nota-1.4?urlpath=lab) 
++ [1.4.Polinomios_de_Taylor_y_diferenciacion_numerica.ipynb](1.4.Polinomios_de_Taylor_y_diferenciacion_numerica.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dapivei/repo-mno-2020-prueba/nota-1.4?urlpath=lab) 
 
 
-[1.5.Integracion_numerica.ipynb](1.5.Integracion_numerica.ipynb) (nota escrita en jupyterlab)
++ [1.5.Integracion_numerica.ipynb](1.5.Integracion_numerica.ipynb) (nota escrita en jupyterlab)
 
 
 ¿Cómo puedo crear dos botones de binder que me lleven a ambientes distintos de `docker`?
