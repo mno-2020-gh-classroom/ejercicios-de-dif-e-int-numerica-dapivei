@@ -22,6 +22,9 @@ Instrucciones:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<mi user de github>/<mi repo público>/<mi rama para un dockerfile>?urlpath=lab) 
 ```
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dapivei/repo-mno-2020-prueba/nota-1.4?urlpath=lab) 
+
+
 ```
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<mi user de github>/<mi repo público>/<mi rama para el otro dockerfile>?urlpath=lab) 
 ```
