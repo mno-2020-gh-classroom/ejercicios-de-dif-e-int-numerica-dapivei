@@ -14,7 +14,7 @@ Instrucciones:
 
 
 
-+ [1.5.Integracion_numerica.ipynb](1.5.Integracion_numerica.ipynb) (nota escrita en jupyterlab)
++ [1.5.Integracion_numerica.ipynb](1.5.Integracion_numerica.ipynb) (nota escrita en jupyterlab)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dapivei/repo-mno-2020-prueba/nota-1.5?urlpath=lab) 
 
 
 ¿Cómo puedo crear dos botones de binder que me lleven a ambientes distintos de `docker`?
